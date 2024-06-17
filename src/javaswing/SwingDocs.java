@@ -10,16 +10,16 @@ public class SwingDocs {
 	 * 	* JButton
 	 * 	* JTextField
 	 * 	* JPasswordField
-	 *  * JLabel
-	 *  * JRadioButton
-	 *  * JCheckBox
-	 *  * JComboBox
-	 *  * JMenu
-	 *  * JTable
-	 *  * JPanel
-	 *  * JTextArea
-	 *  * JDexttopPane
-	 *  * JScrollBar
+	 * 	 * JLabel
+	 *  	* JRadioButton
+	 *  	* JCheckBox
+	 *  	* JComboBox
+	 *  	* JMenu
+	 *  	* JTable
+	 *  	* JPanel
+	 *  	* JTextArea
+	 *  	* JDexttopPane
+	 *  	* JScrollBar
 	 *  
 	 */
 
