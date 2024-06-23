@@ -15,9 +15,9 @@ public class ReadTest {
 		
 		while((line = br.readLine()) != null) {
 			System.out.println(line);
+			
 		}
 		
 	}
-	
 
 }
